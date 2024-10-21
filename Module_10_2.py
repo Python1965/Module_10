@@ -48,6 +48,8 @@ def start():
     second_knight.start()
     first_knight.join()
 
+    print('Все битвы закончились!')
+
 
 if __name__ == '__main__':
     start()
